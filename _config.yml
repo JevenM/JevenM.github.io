@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenjie Mao(毛文杰)"
 title_separator          : "-"
 name                     : &name "Mao Wenjie"
-description              : &description "PhD student at Xidian University"
+description              : &description "Ph.D. Candidate at Xidian University"
 url                      : https://jevenm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jevenm.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mao Wenjie"
   avatar           : "profile.png"
-  bio              : "Currently, I am a PhD student at the School of Computer Science and Technology, Xidian University."
+  bio              : "Currently, I am a Ph.D. Candidate at the School of Computer Science and Technology, Xidian University."
   location         : "Shaanxi, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
