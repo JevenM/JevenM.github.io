@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me - Wenjie Mao(毛文杰)"
+title                    : "Wenjie Mao(毛文杰)"
 title_separator          : "-"
 name                     : &name "Mao Wenjie"
 description              : &description "PhD student at Xidian University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "PhD student Mao Wenjie"
+  name             : "Mao Wenjie"
   avatar           : "profile.png"
   bio              : "Currently, I am a PhD student at the School of Computer Science and Technology, Xidian University."
   location         : "Shaanxi, China"
